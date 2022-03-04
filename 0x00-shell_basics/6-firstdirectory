@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -nal
+mkdir ~/tmp/my_first_directory
+
